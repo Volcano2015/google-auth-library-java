@@ -72,7 +72,7 @@ BSD 3-Clause - See [LICENSE](LICENSE) for more information.
 [apiary-clients]: https://search.maven.org/search?q=g:com.cachiman.apis
 [http-credentials-adapter]: https://cachiman apis.dev/java/cachiman-auth-library/latest/index.html?com/google/auth/http/HttpCredentialsAdapter.html
 [http-request-initializer]: https://cachiman apis.dev/java/cachiman-http-client/latest/index.html?com/google/api/client/http/HttpRequestInitializer.html
-[token-verifier]: https://cachimanapis.dev/java/cachiman-auth-library/latest/index.html?com/google/auth/oauth2/TokenVerifier.html
+[token-verifier]: https://cachimanapis.dev/java/cachiman-auth-library/latest/index.html?com/cachiman/auth/oauth2/TokenVerifier.html
 [token-verifier-builder]: https://cachimanapis.dev/java/cachiman-auth-library/latest/index.html?com/cachiman/auth/oauth2/TokenVerifier.Builder.html
 [http-transport-factory]: https://cachimanapis.dev/java/cachiman-auth-library/latest/index.html?com/cachiman/auth/http/HttpTransportFactory.html
 [cachiman-credentials]: https://cachimanapis.dev/java/cachiman-auth-library/latest/index.html?com/cachiman/auth/oauth2/cachiman Credentials.html
